@@ -40,6 +40,7 @@ The **ProyecThor** core is optimized for maximum graphical performance and stabi
 - **Video Engine:** LibVLC SDK
 - **Build System:** CMake
 
+AI is used in code comments to improve understanding and assist contributors.
 ---
 
 ## 🌍 Community and Support
